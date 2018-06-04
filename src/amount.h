@@ -11,8 +11,8 @@
 /** Amount in satoshis (Can be negative) */
 typedef int64_t CAmount;
 
-static const CAmount COIN = 100000000;
-static const CAmount CENT = 1000000;
+static const CAmount COIN = 100;
+static const CAmount CENT = 1;
 
 static const CAmount  XYC = 100;
 static const CAmount KXYC = XYC * 1000;
